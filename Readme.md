@@ -92,6 +92,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## ME
-
-Built with ❤️ by [@rajanarahul93](https://github.com/rajanarahul93)"# Focus_Forge" 
+ 
